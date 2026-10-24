@@ -1,0 +1,170 @@
+{
+ "today": "2026-10-24",
+ "profile": {
+  "majors": [
+   "computer science"
+  ],
+  "year": "junior",
+  "grad_term": "2028-05",
+  "skills": [
+   "python",
+   "sql",
+   "machine learning",
+   "git"
+  ],
+  "gpa": 3.6,
+  "needs_sponsorship": false,
+  "locations": [
+   "remote",
+   "phoenix"
+  ]
+ },
+ "postings": [
+  {
+   "company": "SAMPLE Co A",
+   "title": "Data Science Intern",
+   "url": "https://example.invalid/a",
+   "location": "Phoenix, AZ",
+   "deadline": "2026-12-01",
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": true,
+   "class_years": [
+    "junior",
+    "senior"
+   ],
+   "majors": [
+    "computer science",
+    "statistics"
+   ],
+   "gpa_min": 3.0,
+   "sponsorship": true,
+   "requires_enrolled": true,
+   "required_skills": [
+    "python",
+    "sql"
+   ],
+   "preferred_skills": [
+    "machine learning"
+   ]
+  },
+  {
+   "company": "SAMPLE Co B",
+   "title": "Software Intern",
+   "url": "https://example.invalid/b",
+   "location": "Remote",
+   "deadline": null,
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": null,
+   "class_years": null,
+   "majors": null,
+   "gpa_min": 3.5,
+   "sponsorship": null,
+   "requires_enrolled": null,
+   "required_skills": [
+    "java",
+    "git",
+    "sql"
+   ],
+   "preferred_skills": []
+  },
+  {
+   "company": "SAMPLE Co C",
+   "title": "Senior-only Research Intern",
+   "url": "https://example.invalid/c",
+   "location": "Seattle, WA",
+   "deadline": "2026-11-20",
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": true,
+   "class_years": [
+    "senior"
+   ],
+   "majors": null,
+   "gpa_min": null,
+   "sponsorship": true,
+   "requires_enrolled": true,
+   "required_skills": [
+    "python"
+   ],
+   "preferred_skills": []
+  },
+  {
+   "company": "SAMPLE Co D",
+   "title": "Expired Intern",
+   "url": "https://example.invalid/d",
+   "location": "Remote",
+   "deadline": "2026-10-01",
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": true,
+   "class_years": null,
+   "majors": null,
+   "gpa_min": null,
+   "sponsorship": true,
+   "requires_enrolled": null,
+   "required_skills": [
+    "python"
+   ],
+   "preferred_skills": []
+  },
+  {
+   "company": "SAMPLE Co E",
+   "title": "Marketing Intern",
+   "url": "https://example.invalid/e",
+   "location": "Remote",
+   "deadline": "2026-12-15",
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": true,
+   "class_years": null,
+   "majors": [
+    "marketing"
+   ],
+   "gpa_min": null,
+   "sponsorship": true,
+   "requires_enrolled": null,
+   "required_skills": [],
+   "preferred_skills": []
+  },
+  {
+   "company": "SAMPLE Co F",
+   "title": "Closed Intern",
+   "url": "https://example.invalid/f",
+   "location": "Remote",
+   "deadline": null,
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": false,
+   "class_years": null,
+   "majors": null,
+   "gpa_min": null,
+   "sponsorship": true,
+   "requires_enrolled": null,
+   "required_skills": [
+    "python"
+   ],
+   "preferred_skills": []
+  },
+  {
+   "company": "SAMPLE Co G",
+   "title": "High-GPA Intern",
+   "url": "https://example.invalid/g",
+   "location": "Remote",
+   "deadline": "2026-12-10",
+   "start": "2027-06",
+   "source": "sample",
+   "verified_open": true,
+   "class_years": null,
+   "majors": null,
+   "gpa_min": 3.9,
+   "sponsorship": true,
+   "requires_enrolled": null,
+   "required_skills": [
+    "python"
+   ],
+   "preferred_skills": []
+  }
+ ]
+}
