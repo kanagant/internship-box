@@ -1,0 +1,20 @@
+{
+  "now": "2026-10-24T09:00:00-07:00",
+  "rows": [
+    {"company": "SAMPLE Co A", "role": "Software Intern", "stage": "Assessment", "next_step": "Online assessment", "next_at": "2026-10-25T23:59:00-07:00", "last_email": "2026-10-20"},
+    {"company": "SAMPLE Co B", "role": "Data Intern", "stage": "Interview", "next_step": "Video interview", "next_at": "2026-10-27T14:00:00-07:00", "last_email": "2026-10-22"},
+    {"company": "SAMPLE Co C", "role": "ML Intern", "stage": "Applied", "next_step": "", "next_at": null, "last_email": "2026-09-30"},
+    {"company": "SAMPLE Co D", "role": "SWE Intern", "stage": "Assessment", "next_step": "Coding challenge", "next_at": "2026-10-23T23:59:00-07:00", "last_email": "2026-10-16"},
+    {"company": "SAMPLE Co E", "role": "Research Intern", "stage": "Rejected", "next_step": "", "next_at": null, "last_email": "2026-10-10"}
+  ],
+  "targets": [
+    {"company": "SAMPLE Co B", "kind": "interview", "at": "2026-10-27T14:00:00-07:00", "duration_min": 45},
+    {"company": "SAMPLE Co A", "kind": "assessment_deadline", "at": "2026-10-25T23:59:00-07:00"}
+  ],
+  "busy": [
+    {"title": "SAMPLE: BIO lab report due", "at": "2026-10-27T15:00:00-07:00", "kind": "canvas_due"},
+    {"title": "SAMPLE: MATH exam", "at": "2026-10-27T09:00:00-07:00", "end": "2026-10-27T10:15:00-07:00", "kind": "exam"},
+    {"title": "SAMPLE: History reading quiz due", "at": "2026-10-25T20:00:00-07:00", "kind": "canvas_due"},
+    {"title": "SAMPLE: Essay due", "at": "2026-10-30T23:59:00-07:00", "kind": "canvas_due"}
+  ]
+}
